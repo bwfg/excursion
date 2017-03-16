@@ -5,6 +5,9 @@ body {
 
 h1, h2 {
   color: white;
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
 }
 
 .headline {
@@ -17,4 +20,16 @@ h1, h2 {
   color: #7FFFD4;
   font-size: 16px;
   font-weight: bold;
+}
+
+p {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+.copyright {
+  color: gray
+  text-align: right;
+  font-family: verdana;
 }
